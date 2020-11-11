@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-
+sum= 1+2
 echo "frst webhook"
 echo "This is an Samples Script from GitHub"
 echo "This is test from Linux Server"
